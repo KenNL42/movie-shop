@@ -1,0 +1,10 @@
+.movie {
+    max-width: 20rem;
+    margin-top: 5px;
+    background-color: #1d1d1d;
+    color: rgb(223, 223, 223);
+}
+
+.movie img {
+    max-height: 30rem;
+}

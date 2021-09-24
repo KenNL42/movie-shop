@@ -1,0 +1,9 @@
+.pc-condensed {
+    background-color: #1d1d1d;
+    color: white;
+    border-color: #b3b3b3;
+}
+
+.pc-condensed button{
+    margin-right: 10px;
+}

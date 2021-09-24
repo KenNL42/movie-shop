@@ -1,0 +1,8 @@
+.cart{
+    width: inherit;
+    position: fixed;
+    max-width: 30rem;
+    background-color: #4e4e5c;
+    color: white;
+    margin-top: 10px;
+}
