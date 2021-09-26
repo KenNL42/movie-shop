@@ -22,7 +22,7 @@ class App extends Component{
     http.getMovieLists().then(data => {
       self.setState({movies:data})
     }, err => {
-      console.log('cannot retrieve movie list and set state');
+      // console.log('cannot retrieve movie list and set state');
     });
   }
 
