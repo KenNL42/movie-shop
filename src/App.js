@@ -14,6 +14,9 @@ class App extends Component{
     this.state = {movies:[]};
     this.loadData = this.loadData.bind(this);
     this.movieList = this.movieList.bind(this);
+  }
+  
+  componentDidMount() {
     this.loadData();
   }
 
