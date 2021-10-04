@@ -56,6 +56,9 @@ class App extends Component{
             </div>
           </div>
         </div>
+        <div className="footer">
+          <a href="https://github.com/KenNL42/movie-shop">Link to website Github</a>
+        </div>
       </div>
     );
   }
